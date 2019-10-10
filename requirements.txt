@@ -1,0 +1,14 @@
+Cython==0.29.7
+docopt==0.6.2
+enum==0.4.7
+h5py==2.9.0
+illuminate==0.6.5
+jinja2==2.10.1
+matplotlib==2.2.4
+openpyxl==2.6.2
+pandas==0.24.2
+pyfasta==0.5.2
+pysam==0.15.2
+PyVCF==0.6.8
+scikit-learn==0.20.3
+scipy==1.2.1
